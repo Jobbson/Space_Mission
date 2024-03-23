@@ -21,19 +21,19 @@
 
 ### 🔍Trending Rocket Launches and Mission Success Rate over Time:
 
-- Create a time series visualization showing the number of rocket launches per year.
-- Calculate the mission success rate by dividing successful launches by total launches each year and visualize it over time to determine if there's an increasing trend.
+- Created a time series visualization showing the number of rocket launches per year.
+- Calculated the mission success rate by dividing successful launches by total launches each year and visualize it over time to determine if there's an increasing trend.
 
 ### 🔍Countries/Company with Most Successful Space Missions:
 
-- Create a bar chart to display the total number of successful missions by company
+- Created a bar chart to display the total number of successful missions by company
 - Compare the top countries' success rates over time to identify any changes.
 
 ### 🔍Most Frequently Used Rocket and Its Current Status:
 
-- Create a bar chart to show the frequency of each rocket used for space missions.
-- Include information about the status (active/inactive) of each rocket.
-- Analyze if the most frequently used rocket is still active or if it has been replaced by newer models.
+- Created a bar chart to show the frequency of each rocket used for space missions.
+- Included information about the status (active/inactive) of each rocket.
+- Analyzed if the most frequently used rocket is still active or if it has been replaced by newer models.
 
 By conducting these analyses, i gain valuable insights into the trends and patterns of space missions over time, understand the success rates of different countries, identify the most commonly used rockets, and uncover any patterns in launch locations. These insights can inform decision-making processes and help optimize future space missions.
 
